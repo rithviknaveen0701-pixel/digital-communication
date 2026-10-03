@@ -11,10 +11,14 @@
             "id": "5277d807775095cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Digital Communication/Module 1 - Introduction and Sampling.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Module 1 - Introduction and Sampling"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "572727fc8cdde655",
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital Communication/Module 1 - Introduction and Sampling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Digital Communication/Module 1 - Introduction and Sampling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Digital Communication/Module 1 - Introduction and Sampling.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +193,23 @@
   },
   "active": "5277d807775095cd",
   "lastOpenFiles": [
-    "3rd_year_scheme_and_syllabus_for_the_academic_year_2026-27.pdf",
+    "Dc module-1 prblms.pdf",
+    "DC Module 4 Notes.pdf",
+    "DC module 3 notes.pdf",
+    "DC Module 2 Notes.pdf",
+    "DC module 1.pdf",
     "Digital Communication/24EC504 - Digital Communication Syllabus.md",
+    "Digital Communication/assets/tdm-system.svg",
+    "Digital Communication/assets/sampling-spectrum-aliasing.svg",
+    "Digital Communication/assets/sampling-process.svg",
+    "Digital Communication/assets/quadrature-sampling.svg",
+    "Digital Communication/assets/pam.svg",
+    "Digital Communication/assets/nyquist-example.svg",
+    "Digital Communication/assets/flat-top-sampling.svg",
+    "Digital Communication/assets/digital-communication-system.svg",
+    "Digital Communication/assets",
+    "Digital Communication/Module 1 - Introduction and Sampling.md",
+    "3rd_year_scheme_and_syllabus_for_the_academic_year_2026-27.pdf",
     "Digital Communication",
     "AGENTS.md"
   ]
